@@ -1,1 +1,1 @@
-# Picture-patterns-with-Hopfield-Neural-Network
+# Hopfield-Neural-Networks
